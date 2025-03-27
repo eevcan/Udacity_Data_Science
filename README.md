@@ -21,6 +21,8 @@ File Descriptions
 
 There is 1 notebook available here to showcase work related to the above questions.
 
+My Blog Post about this Data can be found here: https://medium.com/@eevcoh/breaking-the-code-a-data-driven-story-of-pay-gaps-in-tech-804b1db15d74
+
 
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
 Additional credit to Udacity support for help with blog image and formatting
